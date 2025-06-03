@@ -1,16 +1,16 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![themosthandsomeofbit](https://img.shields.io/badge/themosthandsomeofbit-github-blue?logo=github)](https://github.com/themosthandsomeofbit)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+I am currently a 1st year Ph.D. student at Scholl of Optics and Photonics, Beijing Institute of Technology, advised by Prof. Dongdong Weng.
 
 #### Email
-sli[at]cumt.edu.cn
+yxchengeorge[at]163.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+
+M.S., School of Physics and Astronomy, Shanghai Jiao Tong University, 2021—2024.\
+B.E., Scholl of Optics and Photonics, Beijing Institute of Technology, 2017—2021.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
-
+Digital Human, Rendering, 3D Reconstruction.
